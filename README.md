@@ -40,7 +40,6 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 
 ## Courses
 
-* [Flying Car and Autonomous Flight Engineer](https://eu.udacity.com/course/flying-car-nanodegree--nd787) Udacity - Master autonomous flight software engineering skills as you build your career in flying cars and drone robotics.
 * [Robotics: Dynamics and Control](https://www.edx.org/course/robotics-dynamics-control-pennx-robo3x) edX - Learn how to develop dynamic models of robot manipulators, mobile robots, and drones (quadrotors).
 
 ### Udemy
@@ -58,13 +57,13 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 ### Simulators
 
 * [AirSim](https://github.com/Microsoft/AirSim) - Open source simulator based on Unreal Engine for autonomous vehicles.
-* [Drone Racing Arcade](https://thedroneracingleague.com/arcade/) - Mobile based FPV racing game
+* [DRL SIM](https://thedroneracingleague.com/drlsim/) - DRL's official FPV racing simulator
 * [DRL Drone Racing Simulator](https://thedroneracingleague.com/drlsim/) - FPV Racing game and simulator with official DRL tracks.
 * [FPV Air 2](https://store.steampowered.com/app/889040/FPV_Air_2/) - :dollar: - Basic FPV simulator, runs on slower hardware. Available on Steam.
 * [FPV Freerider](https://fpv-freerider.itch.io/fpv-freerider) - :dollar: FPV (first person view) and LOS (line of sight) racing simulator.
 * [FPV Freerider Recharged](https://fpv-freerider.itch.io/fpv-freerider-recharged) - :dollar: FPV (first person view) and LOS (line of sight) racing simulator.
 * [LiftOff](https://www.immersionrc.com/fpv-products/liftoff-drone-race-simulator/) - :dollar: FPV racing simulator with realistic OSD (on-screen display) experience.
-* [Orqa FPV.SkyDive](https://skydive.orqafpv.com/) - Orqa FPV's racing and freestyle simulator.
+* [Orqa FPV.SkyDive](https://orqafpv.com/products/skydive) - Orqa FPV's racing and freestyle simulator.
 * [RotorRush](http://rotorrush.com/) - :dollar: Formerly known as FPV Event. Subscription based simulator.
 * [VelociDrone](https://www.velocidrone.com/) - :dollar: Multiplayer FPV racing simulator.
 
@@ -84,7 +83,6 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 * [EmuFlight](https://github.com/emuflight/EmuFlight) - FC Firmware focusing on flight performance, innovative filtering, leading-edge feature additions, and wide target support.
 * [FalcoX](https://flightone.com/download.php?version=stable) - Formerly known as Raceflight one, FlightOne.
 * [INAV](https://github.com/iNavFlight/inav)
-* [Kiss](https://www.flyduino.net/en_US/page/downloads) - Firmware for KISS FCs.
 * [LibrePilot](https://github.com/librepilot/LibrePilot) - :ghost: (GitHub fork is Outdated/Inactive)
 * [madflight](https://github.com/qqqlab/madflight) - Flight controller for Arduino ESP32 / RP2350 / RP2040 / STM32.
 * [Open Source Rover Control Code](https://github.com/nasa-jpl/osr-rover-code) - Nasa JPL command firmware for the OSR.
@@ -111,7 +109,6 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 
 ## Services
 
-* [AirMap](https://www.airmap.com/) - Aeronautical data & services to unmanned aircraft.
 * [DroneDeploy](https://www.dronedeploy.com/) - Drone & UAV Mapping Software.
 * [RotorBuilds](https://rotorbuilds.com/) - FPV Part lists and Build Logs.
 * [Zeitiew](https://www.zeitview.com/) - Online marketplace for Drone services. Formerly known as DroneBase.
@@ -184,7 +181,6 @@ List:
 * [DalProp](http://dalprop.com) - Props
 * [Diatone](https://www.diatone.us/) - FC, ESC, VTX, Motors
 * [Fl1ghtOne](https://flightone.com) - FC, ESC
-* [Flyduino](https://www.flyduino.net/en_US/) - FC, ESC
 * [GemFan](https://www.gfprops.com/) - Props
 * [Hobbywing](http://www.hobbywing.com) - FC, ESC, Motors
 * [Holybro](http://www.holybro.com) - FC, ESC, PDB
@@ -235,7 +231,6 @@ List:
 
 ### Unmanned Underwater Vehicles
 
-* [Geneinno](https://www.geneinno.com/) - Underwater drones.
 
 ## Visual Localization
 *   [Drone-Satellite-Ground Three Platiform Localization](https://github.com/layumi/University1652-Baseline) 
